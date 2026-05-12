@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Obsidian for macOS macro with custom Obsidian for macOS Macro | auto-sync + focus mode. Featuring auto-sync and focus mode, it's the best choice for macOS users.
 
 
 
